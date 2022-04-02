@@ -9,6 +9,6 @@ public class testgit {
         System.out.println("push git");
         System.out.println("pull git");
         System.out.println("gitee push");
-
+        System.out.println("gitee pull");
     }
 }
